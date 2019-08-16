@@ -27,3 +27,10 @@ Step 3: After Arch
 Step 4: X and the GUI
 
   As stated before, X or Xorg is a display "manager" it isn't a desktop itself as much as it is the foundation of a desktop. Imagine a house, we have the ground layer (Arch), foundation above the ground (X), then the walls (Gnome, KDE, i3), and finally the decoration or the flex of the house (what we do with the previous). 
+  
+Step 5: Programs to make your life easier
+
+   The defaults are well... basic. If you want a more efficient system then I'd recommend to use:
+      1. File Manager
+      2. Browser (Firefox or DuckDuckGo)
+      3. Rofi for program running and searching
